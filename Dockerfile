@@ -5,8 +5,6 @@ RUN apt-get update && \
     apt-get install -y \
     wget \
     nmap \
-    metasploit-framework \
-    burpsuite \
     nikto \
     sqlmap \
     dirb \
